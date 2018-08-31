@@ -1,2 +1,3 @@
 rootProject.name = 'TEST_Submodules'
 
+include ':submodules:submodule_1'
