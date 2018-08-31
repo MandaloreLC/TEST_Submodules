@@ -1,0 +1,3 @@
+[submodule "submodules/submodule_1"]
+	path = submodules/submodule_1
+	url = https://github.com/MandaloreLC/TEST_Submodule_1.git
